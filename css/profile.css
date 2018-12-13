@@ -11,7 +11,7 @@ html {
 body {
 	background: none;
 	color: #000000;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "New Times Roman", Times, serif;
 }
 
 strong {
@@ -19,7 +19,7 @@ strong {
 }
 
 .navbar {
-	background: #e16879;
+	background: #9A3BC9;
 }
 
 .btn{
